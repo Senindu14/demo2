@@ -1,0 +1,108 @@
+
+
+#heading01{
+    color: yellow;
+    background-color: black;
+    text-align: right;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+
+
+.odd{
+    color: black;
+    background-color: orange;
+    text-align: justify;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+
+.even{
+    color: black;
+    background-color: greenyellow;
+    text-align: justify;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+
+
+#login-btn{
+    color: white;
+    background-color: green;
+    border: none;
+    padding: 7px;
+    font-size: medium;
+    width: 60px;
+    height:35px ;
+    font-weight: 500;
+    border-radius: 10px;
+    size: 60px;
+   
+
+}
+
+
+#login-btn:hover{
+    background-color: red;
+    cursor: pointer;
+    width: 65px;
+    height:40px ;
+}
+
+
+
+#login-btn:active{
+    background-color: darkgoldenrod;
+    border: 1px solid black;
+    width: 65px;
+    height:40px ;
+}
+
+
+
+img{
+    width: 50%;
+    background-color: aqua;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+
+
+body{
+    background-image: url(https://images.pexels.com/photos/1592384/pexels-photo-1592384.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+
+.box1{
+    background-color: red;
+    position: fixed;
+    height: 80px;
+    width: 80px;
+    top: 20px;
+    left: 20px;
+    align:center;
+}
+
+
+
+.box2{
+    background-color: yellow;
+    position: sticky;
+    height: 20px;
+    width: 20px;
+    top: 10px;
+    left: 20px;
+}
+
+
+
+
